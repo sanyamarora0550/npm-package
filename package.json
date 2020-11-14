@@ -10,5 +10,8 @@
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "url": "git://github.com/sanyamarora0550/npm-package.git"
   }
 }
